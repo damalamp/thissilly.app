@@ -13,7 +13,7 @@ body {
     justify-content: center;
     justify-items: center;
     font-size: 18px;
-    background: url(./CentralPark.jpeg);
+    background: url(./src/CentralPark.jpeg);
     background-size: cover;
 }
 
@@ -39,6 +39,11 @@ body {
 
 .form > *:last-child {
     margin-bottom: 0;
+}
+
+.form__title {
+    margin-bottom: 2rem;
+    text-align: center;
 }
 
 .form__message {
