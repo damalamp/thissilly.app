@@ -13,7 +13,7 @@ body {
     justify-content: center;
     justify-items: center;
     font-size: 18px;
-    background: url(http://s3.amazonaws.com/thissilly.app/src/CentralPark.jpeg);
+    background: url(https://s3.amazonaws.com/thissilly.app/CentralPark.jpeg);
     background-size: cover;
 }
 
