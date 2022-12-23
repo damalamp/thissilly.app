@@ -34,7 +34,7 @@ body {
 }
 
 .form__hidden {
-    
+    display: none;
 }
 
 .form > *:first-child {
